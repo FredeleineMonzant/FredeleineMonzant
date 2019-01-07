@@ -52,7 +52,7 @@ main {
     color: #888;
 }
 #landing-image {
-    background: url(/image/image1.png);
+    background: url(../image/image1.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
